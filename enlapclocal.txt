@@ -1,0 +1,5 @@
+total 12
+-rw-rw-r-- 1 fede fede    0 dic 21 15:12 enlapclocal.txt
+drwxrwxr-x 2 fede fede 4096 dic 21 14:20 prueba
+-rw-rw-r-- 1 fede fede   48 dic 21 14:21 prueba.txt
+-rw-rw-r-- 1 fede fede    8 dic 21 14:15 README.md
